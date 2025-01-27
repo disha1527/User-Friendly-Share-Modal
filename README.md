@@ -1,10 +1,5 @@
 <h1>🚀Intoducing My User-Friendly-Share-Modal 🚀</h1>
-I’m thrilled to share a recent project I completed, which focuses on a sleek and user-friendly share modal. This design is fully implemented using JavaScript and CSS, offering a seamless experience for sharing profiles across multiple social media platforms.
-
-
-
-
-
+I’m thrilled to share a recent project I completed, which focuses on a sleek and user-friendly share modal. This design is fully implemented using JavaScript and CSS, offering a seamless experience for sharing profiles across multiple social media platforms.<br>
 
 ✨ 𝑲𝒆𝒚 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔: 
 
